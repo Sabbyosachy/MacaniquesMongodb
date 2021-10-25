@@ -1,0 +1,15 @@
+.addservice form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addservice input{
+    margin-top: 10px;
+    width: 20%;
+}
+
+.addservice h2{
+    margin-top: 10px;
+}
